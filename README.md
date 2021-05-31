@@ -1,4 +1,4 @@
-# bootcamp_data_science_modulo_01
+# bootcamp_data_science
 
 Olá, mundo!
 
