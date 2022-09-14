@@ -10,4 +10,4 @@ Neles, procurei vincular links de documentações e explicações em minhas pala
 
 Fique a vontade de entrar em contato e comentar esses códigos.
 
-Att.
+O **projeto final** desde bootcamp foi uma análise preditiva sobre o covid-19, que pode ser encontrada [nesse link](https://github.com/filipecarbonera/analise_preditiva_covid_19).
